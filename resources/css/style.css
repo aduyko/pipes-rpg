@@ -1,0 +1,13 @@
+body{
+  background:white;
+  font-weight:bold;
+}
+#wrapper{
+  position:relative;
+  width:100%;
+  /*margin:auto;*/
+  outline:1px black;
+}
+.tile{
+  position:absolute;
+}
